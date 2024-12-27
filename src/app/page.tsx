@@ -1,6 +1,4 @@
 "use client";
-
-
 import Hero from "@/app/components/hero";
 import Image from "next/image";
 import Projects from "@/app/components/projects";

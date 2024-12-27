@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import Heading from './heading';
-import Card from './card';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
 import Link from 'next/link';

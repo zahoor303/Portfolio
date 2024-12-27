@@ -23,7 +23,7 @@ const Skills = () => {
           {['HTML', 'CSS', 'JavaScript', 'React', 'Next.js', 'Tailwind CSS', 'TypeScript', 'Node.js', 'Git','Python'].map((skill, index) => (
             <div 
               key={index} 
-              className='text-lg sm:text-xl font-medium text-gray-800 bg-purple-100 rounded-lg p-4 shadow-md hover:bg-purple-200 transition-colors duration-200'
+              className='text-lg sm:text-xl font-medium text-gray-800 bg-purple-200 rounded-lg p-4 shadow-md hover:bg-purple-300 transition-colors duration-200'
               data-aos="fade-up" 
               data-aos-delay={index * 100} // Delay each skill item for a staggered animation effect
             >
